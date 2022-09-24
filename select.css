@@ -1,0 +1,12 @@
+.imghead {
+    display: block;
+    width: 100%;
+}
+.imgcircle {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    margin-top: -150px;
+}
